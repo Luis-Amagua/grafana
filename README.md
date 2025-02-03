@@ -1,4 +1,4 @@
-#Monitoreo de caso real con TensorFlow Extended
+# Monitoreo de caso real con TensorFlow Extended
 
 El proceso de integración comenzó con el desarrollo de un modelo de predicción de precios de casas utilizando Python. Este modelo fue diseñado para prever valores futuros de propiedades inmobiliarias en función de datos históricos y características relevantes de las viviendas. Una vez que el modelo fue entrenado y probado, se decidió implementar la solución en un entorno de contenedores usando Docker para facilitar su despliegue y ejecución de manera eficiente y escalable.
 Se siguieron los siguientes pasos:
